@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:villager,name="Bob"] run function auto_pathing:path

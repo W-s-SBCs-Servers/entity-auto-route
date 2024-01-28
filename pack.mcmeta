@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 26,
+        "description": "A datapack that makes certain entities walk along a predefined path"
+    }
+}
